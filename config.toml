@@ -10,6 +10,7 @@ siteHeading = "Sachin Kottarathodi's Space"  # Professional headline
 favicon = "favicon.png"  # Update this if you have a custom icon
 showTaxonomyLinks = false  # No category buttons for now
 
+
 # Blog display settings
 showBlogLatest = true
 mainSections = ["blog"]
