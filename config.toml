@@ -1,0 +1,34 @@
+baseURL = "https://sachin-kottarathodi.github.io/hprofile/"
+languageCode = "en-us"
+title = "Principal Software Engineer | Distributed Systems"
+theme = "notrack"
+pagination.pagerSize = 4  # Posts per page, e.g. in the blog
+
+[params]
+author = "Sachin Kottarathodi"
+siteHeading = "Sachin Kottarathodi's Space"  # Professional headline
+favicon = "favicon.png"  # Update this if you have a custom icon
+showTaxonomyLinks = false  # No category buttons for now
+
+# Blog display settings
+showBlogLatest = true
+mainSections = ["blog"]
+blogLatestHeading = "Technical Insights & Learning"
+nBlogLatest = 4  # Number of blog posts in summary
+
+[params.social]
+github = "sachin-kottarathodi"
+linkedin = "ksachin1"
+email = "sachin.kottarathodi@gmail.com"
+mastodon = ""  # Skip if not used
+rss = "yes"
+keybase = ""  # Skip if not used
+
+[taxonomies]
+year = "year"
+month = "month"
+tags = "tags"
+categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
