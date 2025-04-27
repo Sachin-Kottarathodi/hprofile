@@ -48,9 +48,13 @@ $header-line-height: 1.25;
 html {
     margin: 0;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     margin: 0;
     min-height: 100vh;
     overflow-y: scroll;
@@ -528,7 +532,7 @@ em.taxonomy-emph {
     .what {
         font-family: FreeSans, serif;
         text-align: left;
-        font-size: 1.0em;
+        font-size: 0.9em;
         color: $text-color;
     }
 
@@ -688,7 +692,7 @@ cite {
 }
 
 .gallery-photo {
-    flex-grow: 1;
+    flex-grow: 0;
     height: 10.5em;
     padding: .2em;
 
@@ -704,6 +708,14 @@ cite {
         opacity: 0.7;
         transition: 0.3s;
         cursor: pointer;
+    }
+
+    figcaption {
+        font-size: 0.8rem; /* Adjust as needed */
+        color: #666; /* Adjust text color */
+        margin-top: 0.5em; /* Adds space between the image and caption */
+        text-align: center; /* Centers the caption text */
+        font-style: italic; /* Optional: makes the caption italic */
     }
 }
 
@@ -816,8 +828,12 @@ cite {
     cursor: pointer;
 }
 
+.wrapper {
+  flex-flow: 1;
+}
+
+
 footer {
-/*    position: fixed;*/
     width: 100vw;
     color: #444;
     font-size: .8em;
@@ -827,4 +843,6 @@ footer {
     bottom: 0;
     left: 0;
     background-color: #f7f7f7;
+    margin-top: auto;
 }
+

@@ -1,31 +1,67 @@
 ---
-title: 'Tempora Maxime'
-date: 2020-06-04T23:21:09+02:00
-Tags: [latin, test-tag, ipsum]
-Categories: [lorem]
+title: 'Remind me where to place my blog'
+date: 2025-04-04T23:21:09+02:00
+draft: true
+Tags: [reminder]
+Categories: [no-op]
 ---
 
-# Tempora Maxime
+# Section --
 
-Illo quod est aut aperiam ullam. Eum aliquam vel velit hic dolores sunt
-molestiae saepe. Est et cupiditate est saepe.
+This is what your blog content looks like.
+This is what your blog content looks like.
+{{< image frame="true" float="left" width="15em" caption="Me Again" src="img/MePic.png" >}}
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
 
-Qui quo beatae minima. Tempora maxime facere praesentium officiis maiores quia.
-Quia placeat nihil sint aperiam autem quia recusandae et. In quas nulla cum
-fuga. Dolores voluptas quia facere atque omnis rerum corrupti repellendus.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
 
-## Facere quod 
 
-Voluptatibus neque iure aut doloremque excepturi. Quidem aut unde
-magni. Harum qui molestiae ut itaque labore voluptas.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
 
-Recusandae repudiandae perferendis sed omnis fugiat aut. Qui qui inventore
-aliquam doloribus. Fugit dolorum minima non. Ut eius laudantium quo vero aut
-ipsa qui.
+This is what your blog content looks like.
+This is what your blog content looks like.
+This is what your blog content looks like.
 
-## Commodi est 
+---
 
-Et ut tempore quos ratione minus sed. Repellendus reprehenderit
-minus quia omnis. Praesentium impedit consequatur nihil iusto. Blanditiis qui et
-quia dolor nulla repudiandae tenetur harum. Corporis deleniti quae officiis
-fugit repellat temporibus explicabo. Quod aliquam iure commodi exercitationem.
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
+
+<br>
+
+---
+
+## Twitter Simple Shortcode
+
+{{< twitter_simple 1085870671291310081 >}}
+
+<br>
+
+---
+
+## Vimeo Simple Shortcode
+
+{{< vimeo_simple 48912912 >}}

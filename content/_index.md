@@ -10,21 +10,19 @@ menu:
 
 {{<image float="right" width="12em"  src="img/MePic.png" >}}
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
-diplomat with experience from academia and government, having published a large
-number of books on international law, sometimes even being called the "father"
-of this field of study. I have experience working as a diplomat from serving as
-the Swedish Ambassador to France. For a more comprehensive list of my experience,
-see the [Resume]({{< ref "resume.md" >}}) tab.
+Hello, I’m Sachin Kottarathodi, and this is my personal page.
 
-After having been wrongfully convicted of treason in the Netherlands and
-being handed a life sentence, I managed to escape with the help of my dear
-wife Maria. She brought a chest of books to the prison where I was incarcerated
-(nothing out of the ordinary since I am an avid reader) which was then
-transported back out of the prison, with the the books replaced by yours truly!
+I am a technology professional specializing in building scalable distributed systems. I am deeply interested in distributed architectures, data-intensive systems, databases, clean code practices, and design patterns — with a strong emphasis on applying these principles pragmatically to solve real-world problems. I have a proven track record of delivering impactful business solutions, with a focus on designing maintainable and high-performance systems. My experience working with engineers across varied backgrounds has strengthened my ability to mentor, collaborate, and drive technical excellence within teams.
 
-I have a small gallery of works of art depicting me under the [Gallery]({{< ref "hugo-gallery.md" >}}) tab.
-I regularly post lorem ipsum om my [Blog]({{< ref "blog/_index.md" >}}), and
-there are also examples of how to include images in the theme of the site.
-If you want to get in touch, you can find my social media links and email
-address under the [Contact]({{< ref "contact.md" >}}) tab.
+Beyond architecture and system design, I enjoy hands-on coding and debugging, staying close to code and systems to strengthen both technical depth and decision-making. While I thrive under pressure and responsibility, I am equally committed to maintaining a balanced approach to work and life, ensuring sustainable high performance over the long term.
+
+For a more comprehensive list of my experience and skills, see the [Resume]({{< ref "resume.md" >}}) tab.
+
+## <span class="beyond-work-header">Beyond Work</span>
+
+I enjoy reading across a wide range of topics — from fiction and psychology to investment strategies. Reading helps me relax and often feels like stepping into another world, offering both a break from routine and new ways to look at things. 
+I also enjoy writing, though I often find it easier to start than to finish. You might come across a few unfinished posts on my blog, but I find that sharing ideas — even incomplete ones — keeps them alive and makes it easier for me to revisit and finish them later.
+Over time, I've also developed a strong interest in investments and financial thinking. The [Books]({{< ref "hugo-gallery.md" >}}) section highlights some of the titles that have shaped my views.
+I appreciate value in simplicity — long walks, quiet time, and keeping life uncluttered, both in work and outside of it.
+
+Feel free to explore the content here, and if you'd like to connect, find my links under the [Contact]({{< ref "contact.md" >}}) tab.

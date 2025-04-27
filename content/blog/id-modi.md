@@ -1,8 +1,9 @@
 ---
 title: 'Picture Shortcode Test'
 date: 2020-06-04T23:30:14+02:00
-Tags: [latin, medieval, picture]
-Categories: [lorem, theme]
+Tags: []
+Categories: []
+draft: true
 ---
 
 # Id Modi

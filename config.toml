@@ -1,13 +1,13 @@
 baseURL = "https://sachin-kottarathodi.github.io/hprofile/"
 languageCode = "en-us"
-title = "Principal Software Engineer | Distributed Systems"
+title = "Sachin Kottarathodi's Space"
 theme = "notrack"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
 author = "Sachin Kottarathodi"
 siteHeading = "Sachin Kottarathodi's Space"  # Professional headline
-favicon = "favicon.png"  # Update this if you have a custom icon
+favicon = "img/favicon.ico"  # Update this if you have a custom icon
 showTaxonomyLinks = false  # No category buttons for now
 
 
@@ -21,9 +21,7 @@ nBlogLatest = 4  # Number of blog posts in summary
 github = "sachin-kottarathodi"
 linkedin = "ksachin1"
 email = "sachin.kottarathodi@gmail.com"
-mastodon = ""  # Skip if not used
-rss = "yes"
-keybase = ""  # Skip if not used
+
 
 [taxonomies]
 year = "year"
