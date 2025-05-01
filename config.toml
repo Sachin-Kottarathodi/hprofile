@@ -1,12 +1,12 @@
 baseURL = "https://sachinkottarathodi.com/"
 languageCode = "en-us"
-title = "Sachin Kottarathodi's Space"
+title = " Sachin Kottarathodi's Space"
 theme = "notrack"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
 author = "Sachin Kottarathodi"
-siteHeading = "Sachin Kottarathodi's Space"  # Professional headline
+siteHeading = " Sachin Kottarathodi's Space"  # Professional headline
 favicon = "img/favicon.ico"  # Update this if you have a custom icon
 showTaxonomyLinks = false  # No category buttons for now
 
@@ -14,7 +14,7 @@ showTaxonomyLinks = false  # No category buttons for now
 # Blog display settings
 showBlogLatest = true
 mainSections = ["blog"]
-blogLatestHeading = "Technical Insights & Learning"
+blogLatestHeading = "Insights & Learning"
 nBlogLatest = 4  # Number of blog posts in summary
 
 [params.social]

@@ -14,6 +14,7 @@ date: 2020-06-04T21:53:11+02:00
 
 {{< gallery-category >}}
     {{< gallery-photo fn="ddia.jpg" caption="Designing Data Intensive Applications" >}}
+    {{< gallery-photo fn="hps.jpg" caption="High Performance Spark" >}}
 {{< /gallery-category >}}
 
 
