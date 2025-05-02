@@ -3,6 +3,7 @@ title: 'I do not understand LinkedIn'
 date: 2025-05-01
 Tags: [linkedin]
 Categories: [others]
+draft: true
 ---
 
 This is not what I thought my first blog would be about on my site. I was sure it was going to be about tech — perhaps a book summary.
