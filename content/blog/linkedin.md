@@ -40,7 +40,7 @@ It's not fair, but it's real.
 Does that mean a blockbuster cannot be critically acclaimed or that listings with many reviews are all fakes? of course not. But it *does* make it harder to succeed on substance alone - hoping for accidental word for mouth.
 And here's the kicker. Even word of mouth is just another post. 
 
-Authenticity is rare, it takes integrity to be authentic in the world where performative success often overshadows than quiet substance. 
+Authenticity is rare, it takes integrity to be authentic in the world where performative success often overshadows the quiet substance. 
 
 This is not about weeding out the clown show or scrutinizing every post out there, no one has the time or energy - hats off to those who do.
 
@@ -48,7 +48,7 @@ It is about that individual - who watches the world march ahead with changing ti
 
 Breaking the cufflink is often the hardest part- especially when **you hold the keys yourself**.
 
-Taking action - that aligns with one's principles - allows for progress and satisfaction. The outcome is unknown , but staying put is not an option.
+Taking action - that aligns with one's principles - allows for progress and satisfaction. The outcome is unknown, but staying put is not an option.
 
 
 # What's all this about
