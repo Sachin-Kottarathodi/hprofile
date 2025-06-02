@@ -3,7 +3,7 @@ title: 'I do not understand LinkedIn'
 date: 2025-05-01
 Tags: [linkedin]
 Categories: [others]
-draft: true
+draft: false
 ---
 
 **This wasn't meant to be my first post. But I wanted to start with something real.**
@@ -13,8 +13,7 @@ draft: true
 Seriously, LinkedIn is overflowing with humble brags, pointless posts, and thinly veiled marketing.
 The good old "HR meets candidates" platform is now a full-blown social network. Everyone seems to have sudden epiphanies — some insightful, others... well, less so. Here’s one: learning about customer obsession from a street-side peanut vendor.
 
-And what's with people finding absolute nonsense content and calling them "unique perspectives"?
-Okay, that's one perspective.
+And what's with people finding absolute nonsense and calling it a "unique perspective"?
 Reels on LinkedIn were the final nail. I promptly uninstalled the app from my phone. I wanted to be active, but now it just feels like another Instagram clone.
 
 Nothing I say comes close to how well it depicts in the video. Welcome to hell on earth.
@@ -31,8 +30,8 @@ That said, what's the alternative? This is about careers and business after all.
 
 In a world where everyone is fighting for the same piece of the pie, visibility and personal branding have become essential skills. It’s no longer just about what you did — though that helps — it’s more about how many people saw it, shared it, talked about it.
 
-It's the difference between a critically acclaimed movie and a money-minting blockbuster.
-It's the difference between an Amazon listing with few reviews and one with hundreds.
+It's the difference between a critically acclaimed film with substance and a money-minting blockbuster that runs on marketing hype and a paper-thin script.
+It's the difference between an outstanding product on Amazon with just a handful of reviews and a mediocre one flooded with ratings.
 
 It's not fair, but it's real.
 
@@ -55,5 +54,9 @@ An acceptance of the current landscape.
 A possibility of being part of the show - doing it on your own terms.
 
 With integrity. Without compromising authenticity.
- 
-Note to self - Show up. Speak up. Stay true.
+
+LinkedIn is back on my phone—
+for a purpose I’m not fully comfortable with,
+but one that now feels… essential.
+
+I’ll show up— even if it’s with a grin.
