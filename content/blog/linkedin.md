@@ -23,7 +23,7 @@ Nothing I say comes close to how well it depicts in the video. Welcome to hell o
 
 {{< youtube YRvBQdJlBeo >}}
 
-Video credit: [BusinessCringe] (https://www.youtube.com/@BusinessCringe)
+Video credit: [BusinessCringe](https://www.youtube.com/@BusinessCringe)
 
 
 # The Flip Side
