@@ -18,7 +18,8 @@ draft: false
 - Burnout  
 - Discontentment  
 
-> *“Work expands so as to fill the time available for its completion.”*
+> *“Work expands so as to fill the time available for its completion.”*  
+> — **Parkinson’s Law**, C. Northcote Parkinson (1955)
 
 And still, perfection is sought.  
 Craved. Chased. Worshipped.
