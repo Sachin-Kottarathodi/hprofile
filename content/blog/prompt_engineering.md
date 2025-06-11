@@ -109,5 +109,4 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 **Title:** Prompt Engineering: Best Practices and Reasoning Strategies  
 **Author:** Lee Boonstra, Google Cloud  
-**Published:** Jan 2025  
 **Link:** [Read PDF](https://www.gptaiflow.tech/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf)
