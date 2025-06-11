@@ -7,20 +7,20 @@ description: "Comprehensive notes on prompt engineering strategies, sampling con
 draft: false
 ---
 
-# 🧠 Prompt Engineering Notes
+# Prompt Engineering Notes
 
 Prompt engineering is the process of designing high-quality prompts to guide LLMs to produce accurate outputs. This involves refining length, structure, tone, and clarity.
 
-## 📌 Model-Specific Setup
+## Model-Specific Setup
 
-### ✅ Choose Your LLM and Configure:
+### Choose Your LLM and Configure:
 - Model-specific prompts and capabilities
 - Sampling parameters:
   - **Output Length**  
     More tokens = more compute cost. Reducing length just truncates output.
   - **ReAct model warning**: Emits irrelevant tokens post-response.
 
-### 🔧 Sampling Controls
+### Sampling Controls
 
 | Parameter | Effect |
 |----------|--------|
@@ -39,7 +39,7 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 ---
 
-## 💡 Prompting Techniques
+## Prompting Techniques
 
 - **Zero-Shot**
 - **One-Shot**
@@ -47,7 +47,7 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 ---
 
-## 🧭 Role, Context, and System Prompting
+## Role, Context, and System Prompting
 
 | Type | Use |
 |------|-----|
@@ -57,7 +57,7 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 ---
 
-## 🧠 Advanced Prompting Methods
+## Advanced Prompting Methods
 
 ### Step-Back Prompting
 - Ask a general question before the main task to activate relevant knowledge.
@@ -83,7 +83,7 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 ---
 
-## 🤖 Auto-Prompting & Code Prompting
+## Auto-Prompting & Code Prompting
 
 - Write prompts that write better prompts.
 - Use BLEU / ROUGE to evaluate prompt performance.
@@ -91,7 +91,7 @@ Prompt engineering is the process of designing high-quality prompts to guide LLM
 
 ---
 
-## 🔥 Best Practices
+## Best Practices
 
 - **Give Examples**
 - **Be Clear & Concise**
