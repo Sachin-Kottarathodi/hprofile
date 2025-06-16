@@ -4,6 +4,7 @@ date: 2025-06-16
 tags: ["llm", "evaluation", "prompt-engineering"]
 Categories: ["tech"]
 description: "Comprehensive notes on evaluating LLM applications, creating rubrics, and prompt engineering using Gemini API."
+summary: "Comprehensive notes on evaluating LLM applications, creating rubrics, and prompt engineering using Gemini API."
 draft: false
 ---
 
