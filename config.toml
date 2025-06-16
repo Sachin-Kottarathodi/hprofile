@@ -15,7 +15,7 @@ showTaxonomyLinks = false  # No category buttons for now
 showBlogLatest = true
 mainSections = ["blog"]
 blogLatestHeading = "Insights & Learning"
-nBlogLatest = 4  # Number of blog posts in summary
+nBlogLatest = 10  # Number of blog posts in summary
 
 [params.social]
 github = "sachin-kottarathodi"
