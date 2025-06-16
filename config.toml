@@ -31,3 +31,8 @@ categories = "categories"
 
 [permalinks]
   blog = "/blog/:year/:month/:slug"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokailight" # or "github", "friendly", "tango", etc.
