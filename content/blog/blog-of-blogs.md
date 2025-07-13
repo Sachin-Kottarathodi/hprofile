@@ -17,18 +17,19 @@ draft: false
 
 ## Growth Map - Non Checklist
 
-🔭 Concepts to Explore Later
-## Hybrid Search (Sparse + Dense Retrieval)
-Combine traditional keyword search (like TF-IDF/BM25) with embeddings for better relevance, especially in enterprise search.
+🔭 **Concepts to Explore Later**
 
-## Vector Databases (FAISS, Pinecone, Weaviate, Milvus)
-Each has trade-offs in latency, scalability, and integrations. Worth exploring for hands-on projects.
+- **Hybrid Search (Sparse + Dense Retrieval)**  
+  Combine traditional keyword search (like TF-IDF/BM25) with embeddings for better relevance, especially in enterprise search.
 
-## Document Chunking Strategies
-How to split large docs into semantically meaningful chunks before embedding — affects RAG accuracy.
+- **Vector Databases (FAISS, Pinecone, Weaviate, Milvus)**  
+  Each has trade-offs in latency, scalability, and integrations. Worth exploring for hands-on projects.
 
-## Embedding Refresh and Drift
-What happens when your source data changes? Techniques to manage stale embeddings in evolving systems.
+- **Document Chunking Strategies**  
+  How to split large docs into semantically meaningful chunks before embedding — affects RAG accuracy.
 
-## Cross-Lingual / Multilingual Embeddings
-Use models like LASER, LaBSE, or XLM-R to handle multilingual queries and documents in the same vector space.
+- **Embedding Refresh and Drift**  
+  What happens when your source data changes? Techniques to manage stale embeddings in evolving systems.
+
+- **Cross-Lingual / Multilingual Embeddings**  
+  Use models like LASER, LaBSE, or XLM-R to handle multilingual queries and documents in the same vector space.
