@@ -6,19 +6,41 @@ Categories: [others]
 draft: false
 ---
 
+## but only when Marketing is done with intent...
 
-# Sales is a Service
+I’ve bought things.
+Hired people.
+Paid for services.
 
-A change in perspective.
+Not because they chased me.
+But because they told me who they were.
+What they do.
+What they offer.
 
-In a world that feels like a rat race—where everyone chases that extra sale, that extra attention—it’s hard to spot genuine salesmanship. Maybe it doesn’t even exist anymore?
+I checked reviews. I saw their work.
+I decided based on what they made visible.
 
-Sales and marketing strategies often feel like they’re just what’s taught in schools:  
-a mix of human psychology twists, polished speech, hiding flaws, and putting on a smile.  
-At the end of the day, the numbers speak loudest. The sell counts. Nothing else.
+Imagine if they stayed silent.
+Too “humble” to speak.
+Too “pure” to sell.
 
-What’s troubling is how manipulative sales tactics have become normalized—passed down as “clear tricks” that seep into our daily routines. It’s subtle, pervasive, and deeply Machiavellian.
+I’d never have known.
+They’d never have helped.
 
----
+We throw shade at marketing.
+Call it fake, flashy, manipulative.
+And yes, some of it is.
+Endorsements by celebrities who don’t use what they sell.
+Influencers pushing what they don’t believe in.
 
-*To be continued…*
+But visibility isn’t vanity. It’s reach.
+It’s service. It’s saying: “I can help. And here’s how.”
+It’s not about being loud.
+It’s about being available.
+
+If you believe you bring value —
+Then not putting yourself out there isn’t modesty.
+It’s withholding.
+
+Visibility is how service scales.
+And silence doesn’t serve anyone.
