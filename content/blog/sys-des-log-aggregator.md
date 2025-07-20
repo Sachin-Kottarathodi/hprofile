@@ -130,10 +130,3 @@ draft: false
 - Real-time quota metrics exposed to tenants?
 
 ---
-
-# ✅ Next Steps
-
-- [ ] Deep dive into 1–2 areas (Telemetry, RBAC, or ILM?)
-- [ ] Add rough architecture diagram (ASCII or PlantUML?)
-
----
