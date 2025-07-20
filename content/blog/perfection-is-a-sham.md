@@ -57,7 +57,7 @@ It takes time. And practice.
 Not to lower the bar —  
 but to **release yourself** from holding everything to it.
 
-Not to self - Start by:
+Note to self - Start by:
 - Doing things without holding them against yourself  
 - Making progress without demanding completion  
 - Being okay with the incomplete, when completeness isn’t needed  
