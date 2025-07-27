@@ -11,8 +11,10 @@ Categories: [tech]
 This is my living blog of quick, forgotten patterns. Not profound, just practical.
 
 ---
+[Spark](#spark)
+[Java](#java)
 
-## 🔥 Spark (with Java)
+## Spark
 
 ### 1. Create a SparkSession (Boilerplate I always forget)
 
@@ -121,7 +123,7 @@ rdd.mapValues(value -> transform(value));
 
 ---
 
-## 🧩 Java Extras
+## Java Extras
 
 > Random nuggets that fade away from memory faster than they should.
 
