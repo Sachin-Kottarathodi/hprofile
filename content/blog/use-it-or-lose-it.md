@@ -77,7 +77,7 @@ lines.foreachRDD(rdd -> { /* process rdd */ });
 
 
 ```java
-partitionBy(new UserIdModPartitioner(10));
+rdd.partitionBy(new UserIdModPartitioner(10));
 
 public static class UserIdModPartitioner extends Partitioner {
     private final int numPartitions;
