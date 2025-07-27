@@ -11,9 +11,11 @@ Categories: [tech]
 This is my living blog of quick, forgotten patterns. Not profound, just practical.
 
 ---
-[Spark](#spark)
-[Java](#java)
+## Table of Contents
 
+- [Spark](#spark)
+
+- [Java](#java)
 ## Spark
 
 ### 1. Create a SparkSession (Boilerplate I always forget)
