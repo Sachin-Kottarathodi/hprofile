@@ -2,8 +2,8 @@
 title: "Use It or Lose It Notes"
 date: 2025-07-27
 draft: false
-tags: ["spark", "java", "snippets", "use-it-or-lose-it"]
-Categories: [tech]
+tags: ["spark", "java", "snippets", "use-it-or-lose-it",]
+Categories: [tech, living]
 ---
 
 > Because I mostly don't use it, and then end up losing it.

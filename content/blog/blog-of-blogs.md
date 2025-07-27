@@ -2,7 +2,7 @@
 title: 'The Blog of Blogs'
 date: 2025-05-16
 Tags: [reads]
-Categories: [others]
+Categories: [others, living]
 draft: false
 ---
 
