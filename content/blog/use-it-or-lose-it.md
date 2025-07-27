@@ -125,7 +125,7 @@ rdd.mapValues(value -> transform(value));
 
 ---
 
-## Java Extras
+## Java
 
 > Random nuggets that fade away from memory faster than they should.
 
