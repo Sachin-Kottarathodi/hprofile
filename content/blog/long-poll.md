@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Explanations of Long Polling start with ther server *"holds the connection open."*. That means nothing, not to me at least.
+Explanations of Long Polling start with the server *"holds the connection open."*.
 
 To understand Long Polling, it helps to go one level lower than HTTP.
 
