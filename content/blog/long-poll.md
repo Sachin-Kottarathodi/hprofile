@@ -1,5 +1,5 @@
 ---
-title: "Understanding Long Polling, WebSockets and epoll from First Principles"
+title: "Long Polling"
 date: 2026-03-07
 draft: false
 tags:
