@@ -1,5 +1,5 @@
 ---
-title: "A Practical Framework for Dynamic Programming"
+title: "Dynamic Programming"
 date: 2026-02-05
 draft: false
 tags:
@@ -13,7 +13,7 @@ categories:
 >
 > These notes are based primarily on the MIT 15.053 Dynamic Programming notes by Dimitris Bertsimas and John Tsitsiklis. The ideas and examples reflect my own study and understanding. AI was used to improve organization and presentation.
 
-# A Practical Framework for Dynamic Programming
+# A Framework for Dynamic Programming
 
 ## Reference
 
