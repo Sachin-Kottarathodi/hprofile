@@ -1,4 +1,3 @@
-# Token Flow - E2E
 ---
 title: "Token E2E"
 description: "Life of a Token"
