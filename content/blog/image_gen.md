@@ -10,11 +10,8 @@ categories:
 ---
 # Fom Pixels to Diffusion: How Image Generation Actually Works
 
-> This post began as my scattered notes and questions while
-> learning LLMs. I couldn't stitch them together so used AI
-> to do that for me. The fragments are connected into a coherent model.
-> It is intentionally simplified as I am not there yet
-> for this to be too complex or detailed at this point.
+> This post began as scattered notes and questions while trying to understand each of these topics in more detail. The deeper the questions went, the more the concepts started connecting, but the notes themselves remained fragmented. AI was used to piece those fragments together into a coherent sequence. The result is a connected mental model of the topics discussed. It is intentionally simplified, as the goal at this stage is to understand the core ideas without getting lost in the deeper mathematical and implementation details.
+
 
 ---
 
