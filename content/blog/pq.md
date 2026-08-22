@@ -1,5 +1,5 @@
 ---
-title: "RAG Retrieval: From Keyword Search to Vector Search"
+title: "Product Quantization"
 date: 2026-08-14
 tags: ["GenAI", "LLMs", "RAGs"]
 Categories: ["tech"]
