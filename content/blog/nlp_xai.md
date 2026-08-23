@@ -81,7 +81,7 @@ to?               output?          prediction?
 
 - **Attention:** What was the model looking at?
 - **Saliency:** What parts of the input strongly influenced the output?
-- **LIME:** Approximate this particular prediction locally with a simple model.
-- **SHAP:** Attribute the prediction among its input features.
+- **LIME:** (Local Interpretable Model-agnostic Explanations) - Approximate this particular prediction locally with a simple model.
+- **SHAP:** (SHapley Additive exPlanations) - Attribute the prediction among its input features.
 
 > **Note:** These techniques provide interpretations or attributions of model behavior. They do not necessarily reveal the model's true internal reasoning.
