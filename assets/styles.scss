@@ -424,6 +424,59 @@ em.taxonomy-emph {
     h4 { font-size: 1.1em; }
 }
 
+// QUOTES
+
+.quote-list {
+    list-style: none;
+    margin: 2em 0;
+    padding: 0;
+}
+
+.quote-entry {
+    border-bottom: 1px solid #ddd;
+    padding: 1.4em .25em;
+
+    blockquote {
+        margin: .55em 0 0;
+        padding-left: .9em;
+        border-left: 2px solid #ddd;
+        font-style: italic;
+        width: 100%;
+        max-width: 100%;
+        line-height: 1.45;
+
+        .quote-credit {
+            display: block;
+            margin: .5em 0 0;
+            font-style: normal;
+            font-size: .9em;
+            color: $light-text;
+            text-align: right;
+        }
+
+        .quote-source {
+            margin-top: .25em;
+            font-size: .85em;
+            font-style: normal;
+            text-align: left;
+
+            a { color: $midnight-matte; }
+        }
+    }
+
+    time {
+        display: block;
+        color: $light-text;
+        font-size: .78em;
+        letter-spacing: .035em;
+    }
+}
+
+.quotes-empty {
+    color: $light-text;
+    font-style: italic;
+}
+
 .taxonomy-links ul {
         list-style-type: none;
         display: flex;

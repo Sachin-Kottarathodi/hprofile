@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main>
+    <article class="quotes-page">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ .Content }}
+
+        {{ $quotes := site.Data.quotes }}
+        {{ if $quotes }}
+            <ol class="quote-list">
+                {{ range sort $quotes "date" "desc" }}
+                    <li class="quote-entry">
+                        <time datetime="{{ .date }}">{{ .date }}</time>
+                        <blockquote>
+                            <div class="quote-text">{{ .quote | htmlEscape | replaceRE "\\r?\\n" "<br>" | safeHTML }}</div>
+                            
+                            {{ if and .link .linkTitle }}
+                                <div class="quote-source"><a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .linkTitle }}</a></div>
+                            {{ end }}
+                            {{ with .credit }}<div class="quote-credit">— {{ . }}</div>{{ end }}
+                        </blockquote>
+                    </li>
+                {{ end }}
+            </ol>
+        {{ else }}
+            <p class="quotes-empty">No quotes yet. Add an entry to <code>data/quotes.yaml</code> to get started.</p>
+        {{ end }}
+    </article>
+</main>
+{{ end }}
