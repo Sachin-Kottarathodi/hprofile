@@ -3,7 +3,8 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - main  # Change if your default branch is different
+      - main
+      - dev
 
 permissions:
   contents: read
@@ -22,21 +23,34 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.102.3'
+          hugo-version: "0.102.3"
           extended: true
 
-      - name: Build
+      - name: Build production site
+        if: github.ref == 'refs/heads/main'
         run: hugo --minify
 
-      - name: Upload Artifact
+      - name: Build preview site
+        if: github.ref == 'refs/heads/dev'
+        run: hugo --minify --baseURL "https://sachin-kottarathodi.github.io/hprofile-dev/"
+
+      - name: Publish preview to hprofile-dev
+        if: github.ref == 'refs/heads/dev'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.STAGING_DEPLOY_TOKEN }}
+          external_repository: Sachin-Kottarathodi/hprofile-dev
+          publish_branch: gh-pages
+          publish_dir: ./public
+
+      - name: Upload production artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
-      
-
-
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
