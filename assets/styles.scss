@@ -436,6 +436,13 @@ em.taxonomy-emph {
     border-bottom: 1px solid #ddd;
     padding: 1.4em .25em;
 
+    .quote-title {
+        margin: .4em 0 .2em;
+        font-size: 1.08em;
+        font-weight: 600;
+        text-align: left;
+    }
+
     blockquote {
         margin: .55em 0 0;
         padding-left: .9em;
@@ -467,7 +474,7 @@ em.taxonomy-emph {
     time {
         display: block;
         color: $light-text;
-        font-size: .78em;
+        font-size: .7em;
         letter-spacing: .035em;
     }
 }

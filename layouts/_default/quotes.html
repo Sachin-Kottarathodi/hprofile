@@ -5,11 +5,30 @@
         {{ .Content }}
 
         {{ $quotes := site.Data.quotes }}
+        {{ range $index, $entry := $quotes }}
+            {{ $entryNumber := add $index 1 }}
+            {{ if or (not $entry.date) (not $entry.quote) }}
+                {{ errorf "data/quotes.yaml entry %d must include date and quote" $entryNumber }}
+            {{ end }}
+            {{ $dateText := printf "%v" $entry.date }}
+            {{ if not (findRE "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" $dateText) }}
+                {{ errorf "data/quotes.yaml entry %d date must use YYYY-MM-DD" $entryNumber }}
+            {{ end }}
+            {{ if ne (isset $entry "link") (isset $entry "linkTitle") }}
+                {{ errorf "data/quotes.yaml entry %d must include both link and linkTitle, or neither" $entryNumber }}
+            {{ end }}
+            {{ with $entry.link }}
+                {{ if not (or (hasPrefix . "https://") (hasPrefix . "http://")) }}
+                    {{ errorf "data/quotes.yaml entry %d link must start with http:// or https://" $entryNumber }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
         {{ if $quotes }}
             <ol class="quote-list">
                 {{ range sort $quotes "date" "desc" }}
                     <li class="quote-entry">
                         <time datetime="{{ .date }}">{{ .date }}</time>
+                        {{ with .title }}<h2 class="quote-title">{{ . }}</h2>{{ end }}
                         <blockquote>
                             <div class="quote-text">{{ .quote | htmlEscape | replaceRE "\\r?\\n" "<br>" | safeHTML }}</div>
                             
