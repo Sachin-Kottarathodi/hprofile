@@ -1,0 +1,26 @@
+# Add one item per quote. Dates use YYYY-MM-DD; newest entries appear first.
+# Example:
+# - date: "2026-10-30"
+#   title: "Optional entry title"
+#   quote: "Your quote text goes here."
+#   credit: "Kottarathodi"
+#   link: "https://example.com/story"
+#   linkTitle: "Story title"
+
+
+- date: "2026-10-29"
+  title: "The Key in the Pines"
+  quote: |
+    At the edge of the village, a narrow path disappeared into the pines.
+    Mira followed it each evening, carrying a notebook and a small brass key.
+    She had found the key beneath a loose floorboard in her grandfather’s study.
+    No lock in the house seemed to fit it.
+    One rainy afternoon, she noticed a stone door hidden behind the roots.
+    The key turned with a quiet click, and the door opened into a warm, bright room.
+    Inside stood shelves of journals, each marked with a year and a name.
+    The newest journal had her own name on its cover.
+    She opened it and found a blank page waiting for the first sentence.
+    Mira sat by the window and began to write.
+  credit: "Anonymous"
+  link: "https://example.com/sample-story"
+  linkTitle: "https://example.com/sample-story"
